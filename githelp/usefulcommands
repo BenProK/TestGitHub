@@ -1,0 +1,7 @@
+Usefull commands for Git Terminal
+
+adding a file to repository
+1. git status 
+     "shows you the untracked files"
+2. git add . 
+     "will add untracked files"
